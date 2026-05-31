@@ -1,0 +1,6 @@
+@ScholarshipAutoFill.Api_HostAddress = http://localhost:5139
+
+GET {{ScholarshipAutoFill.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

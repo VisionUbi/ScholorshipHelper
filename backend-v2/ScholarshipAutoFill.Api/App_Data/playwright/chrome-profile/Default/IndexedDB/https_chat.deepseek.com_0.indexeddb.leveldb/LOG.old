@@ -1,0 +1,25 @@
+2026/05/31-11:53:11.915 6b84 Reusing MANIFEST H:\Project sch\backend-v2\ScholarshipAutoFill.Api\App_Data\playwright\chrome-profile\Default\IndexedDB\https_chat.deepseek.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/05/31-11:53:11.915 6b84 Recovering log #13
+2026/05/31-11:53:11.916 6b84 Reusing old log H:\Project sch\backend-v2\ScholarshipAutoFill.Api\App_Data\playwright\chrome-profile\Default\IndexedDB\https_chat.deepseek.com_0.indexeddb.leveldb/000013.log 
+2026/05/31-11:53:11.916 6b84 Delete type=2 #12
+2026/05/31-11:53:11.921 7db8 Level-0 table #18: started
+2026/05/31-11:53:11.923 7db8 Level-0 table #18: 2019 bytes OK
+2026/05/31-11:53:11.924 7db8 Delete type=0 #13
+2026/05/31-11:53:11.925 6b84 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\xc8\x0f\x00h\x00i\x00s\x00t\x00o\x00r\x00y\x00-\x00m\x00e\x00s\x00s\x00a\x00g\x00e' @ 387 : 1
+2026/05/31-11:53:11.925 6b84 Compacting 1@0 + 1@1 files
+2026/05/31-11:53:11.927 6b84 Generated table #19@0: 80 keys, 1114 bytes
+2026/05/31-11:53:11.927 6b84 Compacted 1@0 + 1@1 files => 1114 bytes
+2026/05/31-11:53:11.928 6b84 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/31-11:53:11.928 6b84 Delete type=2 #18
+2026/05/31-11:53:11.929 6b84 Manual compaction at level-0 from '\x00\x06\x00\x00\xc8\x0f\x00h\x00i\x00s\x00t\x00o\x00r\x00y\x00-\x00m\x00e\x00s\x00s\x00a\x00g\x00e' @ 387 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/05/31-11:53:11.930 6b84 Level-0 table #21: started
+2026/05/31-11:53:11.932 6b84 Level-0 table #21: 672 bytes OK
+2026/05/31-11:53:11.933 6b84 Delete type=2 #15
+2026/05/31-11:53:11.933 6b84 Delete type=0 #17
+2026/05/31-11:53:11.934 6b84 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 445 : 1
+2026/05/31-11:53:11.934 6b84 Compacting 1@0 + 1@1 files
+2026/05/31-11:53:11.936 6b84 Generated table #22@0: 70 keys, 950 bytes
+2026/05/31-11:53:11.936 6b84 Compacted 1@0 + 1@1 files => 950 bytes
+2026/05/31-11:53:11.937 6b84 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/31-11:53:11.937 6b84 Delete type=2 #21
+2026/05/31-11:53:11.938 6b84 Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 445 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)

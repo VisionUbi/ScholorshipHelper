@@ -1,0 +1,52 @@
+﻿{
+  "Url": "https://apply.unimi.it/courses",
+  "Title": "Apply online! - The University of Milan",
+  "Kind": "static",
+  "HtmlPath": "H:\\Project sch\\backend\\ScholarshipAutoFill.Api\\debug\\crawler\\ea107870-6736-4e44-a22f-d04e8d5d5ee6\\static-apply.unimi.it-courses.html",
+  "AllLinks": [
+    "https://apply.unimi.it/courses#wcag-content",
+    "https://apply.unimi.it/a11y/report",
+    "https://apply.unimi.it/",
+    "https://apply.unimi.it/courses",
+    "https://apply.unimi.it/institutions",
+    "https://apply.unimi.it/auth/dreamid",
+    "https://apply.unimi.it/contents/content/3-contact-us",
+    "https://apply.unimi.it/contents/content/5-international-student-hub",
+    "https://apply.unimi.it/contents/content/10-candidates-disability-specific-learning-disabilities",
+    "https://apply.unimi.it/contents/content/6-evaluation-steps-open-enrolment-masters-degree-programmes",
+    "https://apply.unimi.it/contents/content/7-evaluation-steps-limited-enrolment-masters-degree-programmes",
+    "https://apply.unimi.it/contents/content/8-masters-degree-documents-finalising-enrolment",
+    "https://apply.unimi.it/contents/content/9-bachelors-degree-documents-finalising-enrolment",
+    "https://www.unimi.it/en/footer/privacy-and-cookies",
+    "https://apply.unimi.it/auth/dreamid?role=admin",
+    "http://dreamapply.com/",
+    "https://apply.unimi.it/pages/cookies",
+    "https://apply.unimi.it/auth/dreamid?forward=%2Fcategory%3Fforward%3D%252Fcourses%252Fsearch%253F"
+  ],
+  "ScriptUrls": [
+    "https://cdn-app.dreamapply.com/26.19.1.QC2.49708.c012b8644adf7fc94ab596bf8ea261deef5ca2d4/scripts/jquery-bundle.js",
+    "https://cdn-app.dreamapply.com/26.19.1.QC2.49708.c012b8644adf7fc94ab596bf8ea261deef5ca2d4/scripts/main.js",
+    "https://cdn-app.dreamapply.com/26.19.1.QC2.49708.c012b8644adf7fc94ab596bf8ea261deef5ca2d4/scripts/vendor.js",
+    "https://cdn-app.dreamapply.com/26.19.1.QC2.49708.c012b8644adf7fc94ab596bf8ea261deef5ca2d4/scripts/default.js",
+    "https://cdn-app.dreamapply.com/26.19.1.QC2.49708.c012b8644adf7fc94ab596bf8ea261deef5ca2d4/scripts/default/category.index.js",
+    "https://cdn-app.dreamapply.com/26.19.1.QC2.49708.c012b8644adf7fc94ab596bf8ea261deef5ca2d4/scripts/dummy.js"
+  ],
+  "InlineScriptSnippets": [
+    "window.shard = {\u0022id\u0022:1764}; window.theme = {\u0022colour\u0022:\u0022#0C336B\u0022,\u0022colourLight\u0022:\u0022#A2ADBB\u0022,\u0022colourHeavy\u0022:\u0022#002A66\u0022,\u0022colourAccent\u0022:\u0022\u0022,\u0022colourLinks\u0022:\u0022#001A40\u0022}; window.auth = {\u0022role\u0022:null,\u0022ID\u0022:null}; window.lang = \u0022en\u0022; window.localizer = {\u0022locale\u0022:\u0022en-GB\u0022,\u0022location\u0022:\u0022PK\u0022,\u0022language\u0022:\u0022en\u0022,\u0022territory\u0022:\u0022PK\u0022}; window.tz = \u0022Europe\\/Rome\u0022; window.instance = {\u0022name\u0022:\u0022The University of Milan\u0022,\u0022logo\u0022:\u0022https:\\/\\/svcs-image.dreamapply.com\\/eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJkcmVhbS1hcHBseSIsImF1ZCI6ImRyZWFtLWltYWdlIiwicGxkIjp7InBhdGgiOiJkcmVhbS1hcHBseTpzaGFyZDE3NjQvaW5zdGFuY2VfbG9nb3MvN2I0NTNhZTUtZGIxOS00ZjU3LTg5MmQtZTlkMTU1MTRkODhjIiwidHJhbnNmb3JtYXRpb25zIjpbeyJuYW1lIjoiZml0IiwicGFyYW1zIjp7IndpZHRoIjoiNDIwIiwiaGVpZ2h0IjoiMjAwIiwicXVhbGl0eSI6Ijk1IiwiZXh0ZW5kIjoiMjU1LDI1NSwyNTUifX1dLCJjYWNoZSI6",
+    "window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);}",
+    "gtag(\u0027consent\u0027, \u0027default\u0027, { ad_storage: \u0027denied\u0027, analytics_storage: \u0027denied\u0027, ads_data_redaction: false, wait_for_update: 1234, });",
+    "console.log(\u00271\u0027); document.body.setAttribute(\u0027js-ready\u0027, 1); Promise.all( [...document.querySelectorAll(\u0027script[type=\u0022module\u0022]\u0027)].map(script =\u003E new Promise( resolve =\u003E script.addEventListener(\u0027load\u0027, resolve) )) ).then(() =\u003E { console.log(\u00272\u0027); document.body.setAttribute(\u0027js-ready\u0027, 2); }) document.onreadystatechange = () =\u003E { console.log(document.readyState); }"
+  ],
+  "VisibleTextPreview": "Apply online! - The University of Milan Skip to content High contrast mode Report accessibility issue Pakistan Find programmes About us Sign in / register My wishlist 0 More information Contact us International Student Hub Candidates with disability or Specific Learning Disabilities Evaluation Steps: Open-enrolment Master\u0027s Degree Programmes Evaluation Steps: Limited-enrolment Master\u0027s Degree Programmes Master\u0027s Degree: Documents for Finalising Enrolment Bachelor\u0027s Degree: Documents for Finalising Enrolment High contrast mode Report accessibility issue Cookie preferences Our privacy policy Admin login Advisor login DreamApply student admission software cancel Save changes The University of Milan My wishlist 0 Select your category Pakistan Sign in / register Select your category EU or EU-equivalent with foreign qualification Choose this category if: you are a citizen of a European Union (EU) member state, Norway, Iceland, Liechtenstein, Switzerland, or San Marino; you are a non-EU citizen with a valid Italian residence card (or residence permit application receipt); you have dual citizenship, including one from a EU country non-EU residing abroad with foreign qualification (visa app) Choose this category if you are not a citizen of a European Union (EU) member state, you reside abroad, and you will apply for an Italian student visa Marco Polo Choose this category if you have a Chinese citizenship and you are part of the Marco Polo programme Why do we ask this? Certain steps in the application process, such as applicable deadlines, application form questions or other tasks may depend on the category you choose here. Select your category EU or EU-equivalent with foreign qualification Choose this category if: you are a citizen of a European Union (EU) member state, Norway, Iceland, Liechtenstein, Switzerland, or San Marino; you are a non-EU citizen with a valid Italian residence card (or residence permit application receipt); you have dual citizenship, including one from a EU country non-EU residing abroad with foreign qualification (visa app) Choose this category if you are not a citizen of a European Union (EU) member state, you reside abroad, and you will apply for an Italian student visa Marco Polo Choose this category if you have a Chinese citizenship and you are part of the Marco Polo programme Why do we ask this? Certain steps in the application process, such as applicable deadlines, application form questions or other tasks may depend on the category you choose here. We use cookies and other technologies that store data on your device to keep the site reliable and secure, tailor your experience and analyze site usage. Accept all cookies Customise Accept all cookies What are cookies? Our privacy policy Cookie preferences We use cookies and other technologies that store data on your device to keep the site reliable and secure, tailor your experience and analyze site usage. Accept all cookies Customise Our privacy policy Functional cookies are strictly necessary for the operation of this page In order to allow this page to operate correctly, we may: store a randomly generated session ID, so that you are able to sign in and stay signed in while you are submitting your data. store your country and locale preferences in order to ensure that you will see the correct application requirements, deadlines and other information. store your layout choices, for example if you have hidden the sidebar or collapsed the menu. store your wishlist items until you sign in (this is an optional feature). finally, we will store the choice you have made in this dialog with regard to cookies. more information Accept analytics and metrics cookies You can allow or disallow metrics and analytics cookies to assist in our marketing efforts, including identifying the sources of traffic to the site. Save my preferences Select your citizenship Please select your citizenship: Afghanistan\u00C5land IslandsAlbaniaAlgeriaAmerican SamoaAndorraAngolaAnguillaAntigua \u0026 BarbudaArgentinaArmeniaArubaAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelarusBelgiumBelizeBeninBermudaBhutanBoliviaBosnia \u0026 HerzegovinaBotswanaBouvet IslandBrazilBritish Indian Ocean TerritoryBritish Virgin IslandsBruneiBulgariaBurkina FasoBurundiCambodiaCameroonCanadaCape VerdeCaribbean NetherlandsCayman IslandsCentral African RepublicChadChileChinaChristmas IslandCocos (Keeling) IslandsColombiaComorosCongo - BrazzavilleCongo - KinshasaCook IslandsCosta RicaC\u00F4te d\u2019IvoireCroatiaCubaCura\u00E7aoCyprusCyprus (North)CzechiaDenmarkDjiboutiDominicaDominican RepublicEcuadorEgyptEl SalvadorEquatorial GuineaEritreaEstoniaEswatiniEthiopiaFalkland IslandsFaroe IslandsFijiFinlandFranceFrench GuianaFrench PolynesiaFrench Southern TerritoriesGabonGambiaGeorgiaGermanyGhanaGibraltarGreeceGreenlandGrenadaGuadeloupeGuamGuatemalaGuernseyGuineaGuinea-BissauGuyanaHaitiHeard \u0026 McDonald IslandsHondurasHong Kong SAR ChinaHungaryIcelandIndiaIndonesiaIranIraqIrelandIsle of ManIsraelItalyJamaicaJapa",
+  "PossibleCourseKeywordsFound": [
+    "course",
+    "programme",
+    "program",
+    "master",
+    "degree",
+    "computer",
+    "data",
+    "software"
+  ],
+  "NetworkResponses": []
+}

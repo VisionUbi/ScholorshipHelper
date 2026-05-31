@@ -1,0 +1,14 @@
+2026/05/31-12:17:47.938 b9a4 Reusing MANIFEST H:\Project sch\backend-v2\ScholarshipAutoFill.Api\App_Data\playwright\chrome-profile\Default\IndexedDB\https_chat.deepseek.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/05/31-12:17:47.939 b9a4 Recovering log #20
+2026/05/31-12:17:47.940 b9a4 Reusing old log H:\Project sch\backend-v2\ScholarshipAutoFill.Api\App_Data\playwright\chrome-profile\Default\IndexedDB\https_chat.deepseek.com_0.indexeddb.leveldb/000020.log 
+2026/05/31-12:17:47.940 b9a4 Delete type=2 #19
+2026/05/31-12:17:47.946 aa60 Level-0 table #25: started
+2026/05/31-12:17:47.949 aa60 Level-0 table #25: 1958 bytes OK
+2026/05/31-12:17:47.951 aa60 Delete type=0 #20
+2026/05/31-12:17:47.952 b9a4 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x00\x00\xc8\x0f\x00h\x00i\x00s\x00t\x00o\x00r\x00y\x00-\x00m\x00e\x00s\x00s\x00a\x00g\x00e' @ 555 : 1
+2026/05/31-12:17:47.952 b9a4 Compacting 1@0 + 1@1 files
+2026/05/31-12:17:47.954 b9a4 Generated table #26@0: 92 keys, 1212 bytes
+2026/05/31-12:17:47.954 b9a4 Compacted 1@0 + 1@1 files => 1212 bytes
+2026/05/31-12:17:47.955 b9a4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/31-12:17:47.956 b9a4 Delete type=2 #25
+2026/05/31-12:17:47.956 b9a4 Manual compaction at level-0 from '\x00\x08\x00\x00\xc8\x0f\x00h\x00i\x00s\x00t\x00o\x00r\x00y\x00-\x00m\x00e\x00s\x00s\x00a\x00g\x00e' @ 555 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)

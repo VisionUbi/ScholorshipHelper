@@ -1,0 +1,6 @@
+2026/05/31-11:49:54.293 b214 Reusing MANIFEST H:\Project sch\backend-v2\ScholarshipAutoFill.Api\App_Data\playwright\chrome-profile\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/31-11:49:54.307 b214 Recovering log #3
+2026/05/31-11:49:54.309 b214 Reusing old log H:\Project sch\backend-v2\ScholarshipAutoFill.Api\App_Data\playwright\chrome-profile\Default\Local Storage\leveldb/000003.log 
+2026/05/31-11:53:16.891 8c74 Level-0 table #5: started
+2026/05/31-11:53:16.897 8c74 Level-0 table #5: 27294 bytes OK
+2026/05/31-11:53:16.899 8c74 Delete type=0 #3

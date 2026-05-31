@@ -1,0 +1,352 @@
+[
+  {
+    "ContainingType": "ScholarshipAutoFill.Api.Controllers.AiSearchController",
+    "Method": "GeneratePrompt",
+    "RelativePath": "api/ai-search/generate-prompt",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ScholarshipAutoFill.Api.DTOs.AiSearchCriteriaRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ScholarshipAutoFill.Api.DTOs.AiSearchPromptResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ScholarshipAutoFill.Api.Controllers.AiSearchController",
+    "Method": "ParseResponse",
+    "RelativePath": "api/ai-search/parse-response",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ScholarshipAutoFill.Api.DTOs.AiSearchParseRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ScholarshipAutoFill.Api.DTOs.AiSearchParseResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ScholarshipAutoFill.Api.Controllers.AiSearchController",
+    "Method": "ProviderStatus",
+    "RelativePath": "api/ai-search/provider-status",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "ScholarshipAutoFill.Api.DTOs.AiSearchProviderStatusResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ScholarshipAutoFill.Api.Controllers.AiSearchController",
+    "Method": "SaveResults",
+    "RelativePath": "api/ai-search/save-results",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ScholarshipAutoFill.Api.DTOs.AiSearchSaveRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ScholarshipAutoFill.Api.DTOs.AiSearchSaveResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ScholarshipAutoFill.Api.Controllers.AiSearchController",
+    "Method": "Search",
+    "RelativePath": "api/ai-search/search",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ScholarshipAutoFill.Api.DTOs.AiSearchCriteriaRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ScholarshipAutoFill.Api.DTOs.AiSearchParseResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ScholarshipAutoFill.Api.Controllers.AnalyzerController",
+    "Method": "Analyze",
+    "RelativePath": "api/analyzer/analyze",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ScholarshipAutoFill.Api.DTOs.ScholarshipAnalyzeRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ScholarshipAutoFill.Api.DTOs.ScholarshipAnalyzeResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ScholarshipAutoFill.Api.Controllers.AnalyzerController",
+    "Method": "Status",
+    "RelativePath": "api/analyzer/status",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ScholarshipAutoFill.Api.Controllers.ChatPortalAutomationController",
+    "Method": "BuildPrompt",
+    "RelativePath": "api/chat-portal/build-prompt",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ScholarshipAutoFill.Api.DTOs.ChatPortalPromptRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ScholarshipAutoFill.Api.DTOs.ChatPortalPromptResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ScholarshipAutoFill.Api.Controllers.ChatPortalAutomationController",
+    "Method": "Login",
+    "RelativePath": "api/chat-portal/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ScholarshipAutoFill.Api.DTOs.ChatPortalLoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ScholarshipAutoFill.Api.DTOs.ChatPortalLoginResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ScholarshipAutoFill.Api.Controllers.ChatPortalAutomationController",
+    "Method": "Query",
+    "RelativePath": "api/chat-portal/query",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ScholarshipAutoFill.Api.DTOs.ChatPortalQueryRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ScholarshipAutoFill.Api.DTOs.ChatPortalQueryResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ScholarshipAutoFill.Api.Controllers.ChatPortalAutomationController",
+    "Method": "SessionStatus",
+    "RelativePath": "api/chat-portal/session-status",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "ScholarshipAutoFill.Api.DTOs.ChatPortalSessionStatusResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ScholarshipAutoFill.Api.Controllers.DocumentsController",
+    "Method": "Status",
+    "RelativePath": "api/documents/status",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ScholarshipAutoFill.Api.Controllers.ProfileController",
+    "Method": "Get",
+    "RelativePath": "api/profile",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "ScholarshipAutoFill.Api.DTOs.ApplicantProfileDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ScholarshipAutoFill.Api.Controllers.ProfileController",
+    "Method": "Upsert",
+    "RelativePath": "api/profile",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ScholarshipAutoFill.Api.DTOs.UpsertApplicantProfileRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ScholarshipAutoFill.Api.DTOs.ApplicantProfileDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ScholarshipAutoFill.Api.Controllers.ResearchController",
+    "Method": "Status",
+    "RelativePath": "api/research/status",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ScholarshipAutoFill.Api.Controllers.AnalyzerController",
+    "Method": "AnalyzeLegacyRoute",
+    "RelativePath": "api/scholarship-ai/analyze",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ScholarshipAutoFill.Api.DTOs.ScholarshipAnalyzeRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ScholarshipAutoFill.Api.DTOs.ScholarshipAnalyzeResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
