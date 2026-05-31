@@ -1,0 +1,15 @@
+/.vs/ScholarshipAutoFillAssistant2/config/applicationhost.config
+/.vs/ScholarshipAutoFillAssistant2/FileContentIndex/f9fe53ea-f30a-4f0f-a3d6-ea31b7ef154d.vsidx
+/.vs/ScholarshipAutoFillAssistant2/v18/.suo
+/.vs/ScholarshipAutoFillAssistant2/v18/DocumentLayout.json
+/backend-v2/ScholarshipAutoFill.Api/bin
+/backend-v2/ScholarshipAutoFill.Api/obj
+/frontend/node_modules/
+
+/.vs/ScholarshipAutoFillAssistant2/DesignTimeBuild/.dtbcache.v2
+/backend-v2/ScholarshipAutoFill.Api/bin/
+/backend-v2/ScholarshipAutoFill.Api/obj/
+Debug/net10.0/apphost.exe
+ 
+
+
