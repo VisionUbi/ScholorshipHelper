@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Project sch\\backend-v2\\ScholarshipAutoFill.Api\\ScholarshipAutoFill.Api.csproj": {}
+    "G:\\PROJECTS\\ScholorshipHelper\\backend-v2\\ScholarshipAutoFill.Api\\ScholarshipAutoFill.Api.csproj": {}
   },
   "projects": {
-    "H:\\Project sch\\backend-v2\\ScholarshipAutoFill.Api\\ScholarshipAutoFill.Api.csproj": {
+    "G:\\PROJECTS\\ScholorshipHelper\\backend-v2\\ScholarshipAutoFill.Api\\ScholarshipAutoFill.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Project sch\\backend-v2\\ScholarshipAutoFill.Api\\ScholarshipAutoFill.Api.csproj",
+        "projectUniqueName": "G:\\PROJECTS\\ScholorshipHelper\\backend-v2\\ScholarshipAutoFill.Api\\ScholarshipAutoFill.Api.csproj",
         "projectName": "ScholarshipAutoFill.Api",
-        "projectPath": "H:\\Project sch\\backend-v2\\ScholarshipAutoFill.Api\\ScholarshipAutoFill.Api.csproj",
+        "projectPath": "G:\\PROJECTS\\ScholorshipHelper\\backend-v2\\ScholarshipAutoFill.Api\\ScholarshipAutoFill.Api.csproj",
         "packagesPath": "C:\\Users\\paymore\\.nuget\\packages\\",
-        "outputPath": "H:\\Project sch\\backend-v2\\ScholarshipAutoFill.Api\\obj\\",
+        "outputPath": "G:\\PROJECTS\\ScholorshipHelper\\backend-v2\\ScholarshipAutoFill.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

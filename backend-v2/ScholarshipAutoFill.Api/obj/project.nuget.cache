@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nkz8Q6Uun00=",
+  "dgSpecHash": "RlizRWpI7Es=",
   "success": true,
-  "projectFilePath": "H:\\Project sch\\backend-v2\\ScholarshipAutoFill.Api\\ScholarshipAutoFill.Api.csproj",
+  "projectFilePath": "G:\\PROJECTS\\ScholorshipHelper\\backend-v2\\ScholarshipAutoFill.Api\\ScholarshipAutoFill.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\paymore\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\paymore\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

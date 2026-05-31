@@ -134,11 +134,11 @@ public sealed class ChatPortalPlaywrightWorkflow(
         await submitButton.ClickAsync();
     }
 
-    private static Task<IBrowser> LaunchBrowserAsync(IPlaywright playwright)
+    private Task<IBrowser> LaunchBrowserAsync(IPlaywright playwright)
     {
         var launchOptions = new BrowserTypeLaunchOptions
         {
-            Headless = false
+            Headless = !ShouldOpenChromeBrowser()
         };
 
         var chromePath = FindInstalledChromePath();
@@ -154,12 +154,17 @@ public sealed class ChatPortalPlaywrightWorkflow(
         Directory.CreateDirectory(dedicatedChromeProfilePath);
         return playwright.Chromium.LaunchPersistentContextAsync(dedicatedChromeProfilePath, new BrowserTypeLaunchPersistentContextOptions
         {
-            Headless = false,
+            Headless = !ShouldOpenChromeBrowser(),
             ExecutablePath = string.IsNullOrWhiteSpace(chromePath) ? null : chromePath,
             ChromiumSandbox = true,
             IgnoreDefaultArgs = ["--enable-automation"],
             Args = ["--disable-blink-features=AutomationControlled"]
         });
+    }
+
+    private bool ShouldOpenChromeBrowser()
+    {
+        return configuration.GetValue<bool>("openchromebrowser");
     }
 
     private static string? FindInstalledChromePath()

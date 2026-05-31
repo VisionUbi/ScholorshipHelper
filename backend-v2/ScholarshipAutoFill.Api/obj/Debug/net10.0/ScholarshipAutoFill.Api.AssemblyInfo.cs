@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScholarshipAutoFill.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2151aefc537f386c7fc0eaf2ac672d729e3f8027")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScholarshipAutoFill.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScholarshipAutoFill.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
